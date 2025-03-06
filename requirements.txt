@@ -1,5 +1,7 @@
 flask
-requests
+gunicorn
 opencv-python
-insightface
+opencv-python-headless
 numpy
+requests
+insightface
